@@ -33,3 +33,4 @@ checkpoints/
 outputs/
 *.pt
 *.pth
+transformer.md

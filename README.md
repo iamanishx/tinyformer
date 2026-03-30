@@ -4,6 +4,8 @@ This project is a learning-first implementation of transformer models in PyTorch
 
 ### Big Picture
 
+![Transformer](assests/image.png)
+
 A transformer is a neural network that processes a sequence of tokens and learns relationships between them using attention.
 
 For a decoder-only language model, the job is:
